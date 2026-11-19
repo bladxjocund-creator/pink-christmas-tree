@@ -1,0 +1,14 @@
+﻿# Blessing settings / 祝福设置
+# Edit only the text AFTER "=". Keep this filename and the Chinese keys unchanged.
+# 只修改等号右边的文字，保留文件名和等号左边的中文名称。
+# Save as UTF-8 and reopen the app. / 以 UTF-8 编码保存后重新打开程序。
+# 主祝福 = Main greeting (max 24 characters / 最多 24 个字)
+# 副祝福 = Secondary greeting (max 48 characters / 最多 48 个字)
+# 英文标题 = Large heading (max 40 characters / 最多 40 个字)
+# 顶部小字 = Small top heading (max 40 characters / 最多 40 个字)
+# In the app: 修改祝福 = Edit wishes; 保存并应用 = Save & Apply.
+# 也可以在程序的“修改祝福”窗口填写，并点击“保存并应用”。
+主祝福=XX天天开心
+副祝福=愿你的每一天，都被温柔与爱包围
+英文标题=Merry Christmas
+顶部小字=W I N T E R   W I S H E S
